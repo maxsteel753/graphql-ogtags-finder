@@ -10,6 +10,7 @@ Tech Stack Used:
 - Apollo Server
 - AWS Lambda(Serverless)
 - MongoDB (MongoDb Atlas)
+- Jest (For Testing)
 
 Demo URL= https://vcmpiyez47.execute-api.us-east-1.amazonaws.com/dev/graphql
 ## Format for Query
